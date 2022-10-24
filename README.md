@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jaehyeok%20Lim&desc=Happy%20Swift&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&descSize=15&descAlign=15&animation=fadeIn)
- 
  <h3> # SNS </h3>
  
   [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lxxjxxhyeok)](https://velog.io/@lxxjxxhyeok)
